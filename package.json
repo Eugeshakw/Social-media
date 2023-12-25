@@ -1,8 +1,8 @@
 {
-  "name": "Social-media",
+  "name": "social-media",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Eugeshakw.github.io/Social-media/",
+  "homepage": "https://Eugeshakw.github.io/social-media/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.3",
     "@testing-library/react": "^12.1.4",
